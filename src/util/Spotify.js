@@ -1,4 +1,4 @@
-const clientId = 'b7a37b58242742998b5e6dde2d729c57';
+const clientId = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const redirectUri = "https://gh-jamming.surge.sh/";
 let accessToken = '';
 export const Spotify = {
